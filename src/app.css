@@ -1,6 +1,6 @@
 @import '@fontsource/fira-mono';
 
-html {
+/* html {
 	height: 100%;
 	overflow: hidden;
 }
@@ -8,7 +8,7 @@ html {
 body {
 	height: 100%;
 	overflow: auto;
-}
+} */
 
 :root {
 	font-family: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
